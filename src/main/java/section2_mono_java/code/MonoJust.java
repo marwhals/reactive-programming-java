@@ -1,4 +1,4 @@
-package mono_java;
+package section2_mono_java.code;
 
 import reactor.core.publisher.Mono;
 import pub_sub_reactive_java.subscriber.SubscriberImpl;

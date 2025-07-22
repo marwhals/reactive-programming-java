@@ -1,4 +1,4 @@
-package mono_java.external_service;
+package section2_mono_java.external_service;
 
 import common.AbstractHttpClient;
 import reactor.core.publisher.Mono;

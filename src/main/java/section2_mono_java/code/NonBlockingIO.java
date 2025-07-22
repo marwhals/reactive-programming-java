@@ -1,7 +1,7 @@
-package mono_java;
+package section2_mono_java.code;
 
 import common.Util;
-import mono_java.external_service.ExternalServiceClient;
+import section2_mono_java.external_service.ExternalServiceClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

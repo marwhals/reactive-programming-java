@@ -1,7 +1,7 @@
-package mono_java;
+package section2_mono_java.code;
 
 import common.Util;
-import mono_java.file_service.FileServiceImpl;
+import section2_mono_java.file_service.FileServiceImpl;
 
 public class Assignment {
 

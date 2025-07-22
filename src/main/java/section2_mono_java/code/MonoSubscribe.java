@@ -1,4 +1,4 @@
-package mono_java;
+package section2_mono_java.code;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
