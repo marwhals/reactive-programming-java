@@ -1,8 +1,9 @@
 package section9_combining_publishers;
 
-import com.vinsguru.common.Util;
-import com.vinsguru.sec09.applications.OrderService;
-import com.vinsguru.sec09.applications.UserService;
+import common.Util;
+import section9_combining_publishers.services.OrderService;
+import section9_combining_publishers.services.UserService;
+
 
 /*
     Sequential non-blocking IO calls!
