@@ -1,6 +1,6 @@
 package section12_sinks;
 
-import com.vinsguru.common.Util;
+import common.Util;
 import reactor.core.publisher.Sinks;
 
 /*

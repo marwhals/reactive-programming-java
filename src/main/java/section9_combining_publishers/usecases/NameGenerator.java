@@ -25,5 +25,4 @@ public class NameGenerator {
                    .cast(String.class);
     }
 
-
 }

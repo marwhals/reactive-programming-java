@@ -1,6 +1,7 @@
 package section9_combining_publishers.services;
 
-import com.vinsguru.common.AbstractHttpClient;
+
+import common.AbstractHttpClient;
 import reactor.core.publisher.Mono;
 
 // just for demo
